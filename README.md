@@ -1,5 +1,5 @@
 # Hook de PIN
-Com a necessidade de verificar a identidade do cliente que está solicitando algo no Antedimento seja ele Online ou qualquer outra forma, criamos estre hook para facilitar.
+Com a necessidade de verificar a identidade do cliente que está solicitando algo no Antedimento seja ele Online ou qualquer outra forma, criamos este hook para facilitar.
 
 # Como instalar
 Para instalar é muito simples, antes de tudo edite seu arquivo (pin.php)! <br/>
